@@ -1,3 +1,22 @@
+# 15.1.33
+ * Updated to Microsoft.CodeAnalysis.VisualBasic version 5.0.0
+
+# 15.1.32
+ * Fixed missing string resources in NETCore package
+
+# 15.1.31
+ * Reverted back to NTML auth
+
+# 15.1.30
+ * Fixed satellite assemblies names and removed duplicated resources
+ * Switched to Windows/Negotiate authentication
+
+# 15.1.29
+ * Included translated resources
+
+# 15.1.28
+ * Fixed transitive references resolving for WPF
+
 # 15.1.27
  * Added .NET 10 version
  * Unified System.Resources.Extensions references for .NET 8 and .NET 9
